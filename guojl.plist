@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://vipstatic.sunday-mobi.com/download/guojl/ios/mxsj.ipa</string>
+					<string>http://oss.mxsj.yunpod.com/app/ios/mxsj.ipa</string>
 				</dict>
 				<dict>
           <key>kind</key>
@@ -19,7 +19,7 @@
           <key>needs-shine</key>
           <true/>
           <key>url</key>
-          <string>http://vipstatic.sunday-mobi.com/download/guojl/ios/icon.png</string>
+          <string>http://oss.mxsj.yunpod.com/app/ios/icon.png</string>
         </dict>
 			</array>
 			<key>metadata</key>
